@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "GameStoreApp\\GameStoreApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "GameShippingTracker\\GameShippingTracker.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
